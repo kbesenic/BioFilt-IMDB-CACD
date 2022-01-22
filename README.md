@@ -20,3 +20,7 @@ BioFilt-IMDB-CACD contains filtered versions of sample lists from the [IMDB-WIKI
 
 Age statistics for the unfiltered and filtered versions of the IMDB and CACD datasets:
 ![filtering_stats](https://github.com/kbesenic/BioFilt-IMDB-CACD/blob/master/filtering_stats.png) 
+
+# The B3FD Dataset (2022)
+The data presented on this page was further refined and used to create a new derived dataset for age estimation - the B3FD dataset. It contains 375,592 facial image samples with corresponding age labels. Both images and labels are available for download. For more info please visit the dataset page at:
+[https://github.com/kbesenic/B3FD](https://github.com/kbesenic/B3FD)
